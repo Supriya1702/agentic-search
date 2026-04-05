@@ -81,7 +81,7 @@ Some websites block automated scraping or aren't supported by Firecrawl. The pip
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/agentic-search.git
+git clone https://github.com/Supriya1702/agentic-search.git
 cd agentic-search
 ```
 
